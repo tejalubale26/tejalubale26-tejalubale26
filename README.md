@@ -2,72 +2,78 @@
 
 # **Hi, I'm Tejal Dattu Ubale**
 
-### **Aspiring AI & Robotics Engineer | Computer Vision | Autonomous Systems | Machine Learning | Agentic AI**
+### **Aspiring AI & Robotics Engineer | Autonomous Systems | Computer Vision | Machine Learning | Agentic AI**
 
-I’m a Computer Science graduate with a strong focus on **AI, Robotics, Machine Learning, Autonomous Drones, and Computer Vision**. My work combines intelligent algorithms with real-world engineering—ranging from autonomous UAV navigation systems and ROS2 nodes to applied AI assistants, cybersecurity utilities, and full-stack ML platforms.
+I’m a Computer Science graduate specializing in **Artificial Intelligence, Robotics, Computer Vision, and Autonomous Systems**. I enjoy building solutions at the intersection of intelligent algorithms and real-world engineering—ranging from autonomous drones and SLAM-based navigation to agentic AI assistants, cybersecurity tools, and full-stack AI platforms.
 
-My experience spans international research, AI agent development, cloud deployment, and hands-on engineering projects built independently and through industry collaborations.
-
-I enjoy building systems that can think, perceive, and act.
+My academic, professional, and international research experiences have shaped a strong foundation in applied AI and robotics engineering. I continuously build, experiment, and improve through hands-on projects, structured upskilling programs, and industry-led certifications.
 
 ---
 
 # **📘 About Me**
 
-* Strong foundation in **AI, Machine Learning, Deep Learning, and Computer Vision**
-* Hands-on experience with **ROS2, SLAM, PID controllers, YOLOv8, and autonomous UAV systems**
-* Skilled in designing **agentic AI assistants** and conversational systems
-* Experience deploying full-stack AI applications on **AWS, Netlify, and on-prem environments**
-* Passionate about robotics, intelligent automation, and research-driven engineering
-* Continuously upskilling through certifications and real-world technical projects
+* Focused on **AI Engineering, Robotics, CV, Machine Learning, and Autonomy**
+* Experience with **ROS2, SLAM Toolbox, YOLOv8, PID Control, ArUco markers**
+* Strong understanding of **LLM-based agentic systems, automation pipelines, and AI agents**
+* Developed production-ready systems deployed on **AWS EC2, Netlify, and ROS environments**
+* Comfortable working end-to-end—from ideation to modeling, deployment, testing, and documentation
+* Strong academic exposure combined with **international research training in France**
 
 ---
 
 # **🚀 Featured Projects**
 
-### **1. SkyNet – Autonomous Drone System (International Internship, France)**
+### **1. SkyNet – Autonomous Drone System (International Internship, Avignon, France)**
 
-A ROS2-powered autonomous drone ecosystem integrating Crazyflie and Tello, featuring SLAM, YOLOv8 vision, PID tracking, and ArUco-based inventory automation.
-**Tech:** ROS2, SLAM Toolbox, OpenCV, YOLOv8, PID Control, A*, Python
+A ROS2-powered drone system integrating Crazyflie 2.1 and Tello EDU for indoor navigation, SLAM-based mapping, YOLOv8 perception, autonomous planning, PID tracking, and ArUco-based inventory automation.
+**Tech:** ROS2, SLAM Toolbox, OpenCV, YOLOv8, Navigation Stack, PID, Python
 **Repo:** [https://github.com/tejalubale26/SkyNet](https://github.com/tejalubale26/SkyNet)
 
 ---
 
-### **2. HealthBot – AI Doctor Chatbot (IBM + CSRBOX Program)**
+### **2. HealthBot – AI Doctor Chatbot (IBM SkillsBuild + CSRBOX)**
 
-An agentic AI healthcare assistant providing personalized insights, Q&A, and interactive health guidance.
-**Tech:** LLMs, Python, LangChain-style agent pipeline
+An AI healthcare assistant using agentic intelligence to deliver personalized health insights and interactive responses.
+**Tech:** Python, LLM Agents, NLP
 **Repo:** [https://github.com/tejalubale26/AI-Doctor-Chatbot](https://github.com/tejalubale26/AI-Doctor-Chatbot)
 
 ---
 
-### **3. AI Life Coach Platform (AWS EC2 Hosted)**
+### **3. Customer Support AI Agent (Google 5-Day AI Agents Intensive Course)**
 
-A full-stack self-improvement platform with journaling, habit tracking, affirmations, and AI feedback.
-**Tech:** PHP, MySQL, JS, AWS EC2
+Capstone project built during Google’s global AI Agents Intensive, submitted for the Kaggle recognition challenge. The system acts as a fully functional customer support agent capable of intent recognition, troubleshooting assistance, escalations, and conversational handling.
+**Tech:** LLM Agents, Prompt Engineering, Python
+**Repo:** [https://github.com/tejalubale26/AI-customer-support-agent](https://github.com/tejalubale26/AI-customer-support-agent)
+
+---
+
+### **4. AI Life Coach Platform (AWS EC2 Hosted)**
+
+A dynamic coaching and habit-tracking platform offering goal setting, journaling, affirmations, and AI-driven feedback.
+**Tech:** PHP, MySQL, JavaScript, AWS
 **Repo:** [https://github.com/tejalubale26/AI-Life-Coach](https://github.com/tejalubale26/AI-Life-Coach)
 
 ---
 
-### **4. Comprehensive Enterprise Insights Platform**
+### **5. Comprehensive Enterprise Insights Platform**
 
-A unified ML suite with anomaly detection, NER, text summarization, fraud analytics, spam detection, and chatbot automation.
-**Tech:** ML, NLP, Python, Scikit-learn, Transformers
+Multi-module ML system providing anomaly detection, NER, summarization, fraud detection, email spam classification, and enterprise chatbot assistance.
+**Tech:** Python, ML, NLP
 **Repo:** [https://github.com/tejalubale26/Comprehensive_Enterprise_Insights_Platform](https://github.com/tejalubale26/Comprehensive_Enterprise_Insights_Platform)
 
 ---
 
-### **5. MD5 Hash-Based Malware Detection Tool**
+### **6. MD5 Hash-Based Malware Detection Tool**
 
-A cybersecurity utility that detects malicious files through MD5 hash signatures.
-**Tech:** Python, Hashing Algorithms, Signature Analysis
+Lightweight cybersecurity scanner using MD5 hash signature matching to detect malicious files.
+**Tech:** Python, Hashing Algorithms
 **Repo:** [https://github.com/tejalubale26/MD5-Hash-Based-Malware-Detection-Tool](https://github.com/tejalubale26/MD5-Hash-Based-Malware-Detection-Tool)
 
 ---
 
-### **6. Cybersecurity Toolkit (Netlify Hosted)**
+### **7. Cybersecurity Toolkit (Netlify Hosted)**
 
-A multipurpose security suite with user authentication, IP lookup, password strength checks, and more.
+Web-based suite offering authentication, password tools, IP utilities, and more.
 **Tech:** HTML, CSS, JavaScript
 **Live:** [https://securitytoolkit.netlify.app/](https://securitytoolkit.netlify.app/)
 **Repo:** [https://github.com/tejalubale26/Cybersecurity_toolkit](https://github.com/tejalubale26/Cybersecurity_toolkit)
@@ -76,46 +82,37 @@ A multipurpose security suite with user authentication, IP lookup, password stre
 
 # **🧠 Technical Skills**
 
-### **AI & Machine Learning**
+### **AI, ML & Deep Learning**
 
-* Supervised & Unsupervised Learning
-* Deep Learning (CNNs, Image Models)
-* LLM-based agentic systems
-* Model evaluation & optimization
+Machine Learning, Deep Learning, NLP, LLM Agents, Predictive Modeling, Optimization
 
 ### **Robotics & Autonomous Systems**
 
-* ROS2 (Humble), SLAM Toolbox, AMCL
-* UAV Navigation & Path Planning
-* Sensor Fusion (IMU, ToF, Optical Flow)
-* PID Control Systems
+ROS2, SLAM, AMCL, A*, UAV Navigation, PID Control, IMU/ToF/Optical Flow Sensor Fusion
 
 ### **Computer Vision**
 
-* YOLOv8 Object & Face Detection
-* OpenCV (ArUco markers, image processing)
-* Real-time inference pipelines
+YOLOv8, ArUco, OpenCV, Object/Face Detection, Real-Time Video Pipelines
 
 ### **Software Development**
 
-* Python, C, JavaScript, PHP, SQL
-* Web development (HTML/CSS/JS, PHP, MySQL)
-* Cloud deployment (AWS EC2, Netlify)
+Python, PHP, JavaScript, SQL, HTML/CSS
+Cloud: AWS EC2, GitHub Pages, Netlify
+Tools: Git, Jupyter, VSCode, Robot Tools, RViZ2
 
-### **Data Science & Cybersecurity**
+### **Cybersecurity & DS**
 
-* Data preprocessing, visualization, analytics
-* Hashing-based malware detection
-* Basic security utilities & tools
+MD5 Hashing, Malware Scanning, Security Tools, Data Analysis, Visualization
 
 ---
 
-# **📚 Certifications **
+# **🎓 Certifications (Key Highlights)**
 
-* Microsoft Azure AI Fundamentals
-* Google Data Analytics
+* Google 5-Day AI Agents Intensive Course (Capstone Completed)
 * Google Startup School: Prompt to Prototype
-* IBM AI Engineering
+* Microsoft Azure AI Fundamentals
+* Google Data Analytics Certificate
+* IBM AI Engineering Specialization
 * Robotics Foundations & Autonomous Systems
 * Machine Learning Specializations
 
@@ -123,19 +120,24 @@ A multipurpose security suite with user authentication, IP lookup, password stre
 
 ---
 
-# **🌍 Experience**
+# **🌍 Professional Experience**
 
 * **AI & Robotics Research Intern – Avignon University, France**
-* **AI Agent Architect – IBM SkillsBuild + CSRBOX**
+* **AI Agent Architect Intern – IBM SkillsBuild + CSRBOX**
 * **ML/AI Intern – Pantech ProEd**
 * **Junior Executive – AIESEC India**
 
 ---
 
-# **📫 Connect with Me**
+# **🌐 Portfolio & Social Links**
 
-* **LinkedIn:** [https://www.linkedin.com/in/tejal-ubale-0aa8b3248](https://www.linkedin.com/in/tejal-ubale-0aa8b3248)
-* **GitHub:** [https://github.com/tejalubale26](https://github.com/tejalubale26)
+Portfolio: **[https://your-portfolio-link-here.com](https://tejalubale-ai-robotics-fa1oakw.gamma.site/)**
+Twitter (X): **[https://twitter.com/yourusername](https://x.com/ubale_tejal)**
+LinkedIn: **[https://www.linkedin.com/in/tejal-ubale-0aa8b3248](https://www.linkedin.com/in/tejal-ubale-0aa8b3248)**
+GitHub: **[https://github.com/tejalubale26](https://github.com/tejalubale26)**
+
+*(Replace placeholders once you share your links.)*
+
 
 ---
 
