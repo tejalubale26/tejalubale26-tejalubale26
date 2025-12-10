@@ -1,6 +1,6 @@
 
 
-# **Hi, I'm Tejal Ubale**
+# **Hi, I'm Tejal Dattu Ubale**
 
 ### **Aspiring AI & Robotics Engineer | Computer Vision | Autonomous Systems | Machine Learning | Agentic AI**
 
