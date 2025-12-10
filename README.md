@@ -26,7 +26,9 @@ My academic, professional, and international research experiences have shaped a 
 ### **1. SkyNet – Autonomous Drone System (International Internship, Avignon, France)**
 
 A ROS2-powered drone system integrating Crazyflie 2.1 and Tello EDU for indoor navigation, SLAM-based mapping, YOLOv8 perception, autonomous planning, PID tracking, and ArUco-based inventory automation.
+
 **Tech:** ROS2, SLAM Toolbox, OpenCV, YOLOv8, Navigation Stack, PID, Python
+
 **Repo:** [https://github.com/tejalubale26/SkyNet](https://github.com/tejalubale26/SkyNet)
 
 ---
