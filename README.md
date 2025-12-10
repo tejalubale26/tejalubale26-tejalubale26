@@ -146,7 +146,7 @@ MD5 Hashing, Malware Scanning, Security Tools, Data Analysis, Visualization
 
 # **🌐 Portfolio & Social Links**
 
-Portfolio: **[https://your-portfolio-link-here.com](https://tejalubale-ai-robotics-fa1oakw.gamma.site/)**
+Portfolio: **[https://your-portfolio-link-here.com](https://tejal-ubale-brwujci.gamma.site/)**
 
 Twitter (X): **[https://twitter.com/yourusername](https://x.com/ubale_tejal)**
 
