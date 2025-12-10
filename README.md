@@ -36,7 +36,9 @@ A ROS2-powered drone system integrating Crazyflie 2.1 and Tello EDU for indoor n
 ### **2. HealthBot – AI Doctor Chatbot (IBM SkillsBuild + CSRBOX)**
 
 An AI healthcare assistant using agentic intelligence to deliver personalized health insights and interactive responses.
+
 **Tech:** Python, LLM Agents, NLP
+
 **Repo:** [https://github.com/tejalubale26/AI-Doctor-Chatbot](https://github.com/tejalubale26/AI-Doctor-Chatbot)
 
 ---
@@ -44,7 +46,9 @@ An AI healthcare assistant using agentic intelligence to deliver personalized he
 ### **3. Customer Support AI Agent (Google 5-Day AI Agents Intensive Course)**
 
 Capstone project built during Google’s global AI Agents Intensive, submitted for the Kaggle recognition challenge. The system acts as a fully functional customer support agent capable of intent recognition, troubleshooting assistance, escalations, and conversational handling.
+
 **Tech:** LLM Agents, Prompt Engineering, Python
+
 **Repo:** [https://github.com/tejalubale26/AI-customer-support-agent](https://github.com/tejalubale26/AI-customer-support-agent)
 
 ---
@@ -52,7 +56,9 @@ Capstone project built during Google’s global AI Agents Intensive, submitted f
 ### **4. AI Life Coach Platform (AWS EC2 Hosted)**
 
 A dynamic coaching and habit-tracking platform offering goal setting, journaling, affirmations, and AI-driven feedback.
+
 **Tech:** PHP, MySQL, JavaScript, AWS
+
 **Repo:** [https://github.com/tejalubale26/AI-Life-Coach](https://github.com/tejalubale26/AI-Life-Coach)
 
 ---
@@ -60,7 +66,9 @@ A dynamic coaching and habit-tracking platform offering goal setting, journaling
 ### **5. Comprehensive Enterprise Insights Platform**
 
 Multi-module ML system providing anomaly detection, NER, summarization, fraud detection, email spam classification, and enterprise chatbot assistance.
+
 **Tech:** Python, ML, NLP
+
 **Repo:** [https://github.com/tejalubale26/Comprehensive_Enterprise_Insights_Platform](https://github.com/tejalubale26/Comprehensive_Enterprise_Insights_Platform)
 
 ---
@@ -68,7 +76,9 @@ Multi-module ML system providing anomaly detection, NER, summarization, fraud de
 ### **6. MD5 Hash-Based Malware Detection Tool**
 
 Lightweight cybersecurity scanner using MD5 hash signature matching to detect malicious files.
+
 **Tech:** Python, Hashing Algorithms
+
 **Repo:** [https://github.com/tejalubale26/MD5-Hash-Based-Malware-Detection-Tool](https://github.com/tejalubale26/MD5-Hash-Based-Malware-Detection-Tool)
 
 ---
@@ -76,8 +86,11 @@ Lightweight cybersecurity scanner using MD5 hash signature matching to detect ma
 ### **7. Cybersecurity Toolkit (Netlify Hosted)**
 
 Web-based suite offering authentication, password tools, IP utilities, and more.
+
 **Tech:** HTML, CSS, JavaScript
+
 **Live:** [https://securitytoolkit.netlify.app/](https://securitytoolkit.netlify.app/)
+
 **Repo:** [https://github.com/tejalubale26/Cybersecurity_toolkit](https://github.com/tejalubale26/Cybersecurity_toolkit)
 
 ---
@@ -134,11 +147,12 @@ MD5 Hashing, Malware Scanning, Security Tools, Data Analysis, Visualization
 # **🌐 Portfolio & Social Links**
 
 Portfolio: **[https://your-portfolio-link-here.com](https://tejalubale-ai-robotics-fa1oakw.gamma.site/)**
-Twitter (X): **[https://twitter.com/yourusername](https://x.com/ubale_tejal)**
-LinkedIn: **[https://www.linkedin.com/in/tejal-ubale-0aa8b3248](https://www.linkedin.com/in/tejal-ubale-0aa8b3248)**
-GitHub: **[https://github.com/tejalubale26](https://github.com/tejalubale26)**
 
-*(Replace placeholders once you share your links.)*
+Twitter (X): **[https://twitter.com/yourusername](https://x.com/ubale_tejal)**
+
+LinkedIn: **[https://www.linkedin.com/in/tejal-ubale-0aa8b3248](https://www.linkedin.com/in/tejal-ubale-0aa8b3248)**
+
+GitHub: **[https://github.com/tejalubale26](https://github.com/tejalubale26)**
 
 
 ---
